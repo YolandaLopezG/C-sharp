@@ -1,0 +1,7 @@
+C:\Users\lopezyo1\source\myRepos\C#-course\Seccion2\Tarea22\Tarea22\bin\Debug\Tarea22.exe.config
+C:\Users\lopezyo1\source\myRepos\C#-course\Seccion2\Tarea22\Tarea22\bin\Debug\Tarea22.exe
+C:\Users\lopezyo1\source\myRepos\C#-course\Seccion2\Tarea22\Tarea22\bin\Debug\Tarea22.pdb
+C:\Users\lopezyo1\source\myRepos\C#-course\Seccion2\Tarea22\Tarea22\obj\Debug\Tarea22.csproj.AssemblyReference.cache
+C:\Users\lopezyo1\source\myRepos\C#-course\Seccion2\Tarea22\Tarea22\obj\Debug\Tarea22.csproj.CoreCompileInputs.cache
+C:\Users\lopezyo1\source\myRepos\C#-course\Seccion2\Tarea22\Tarea22\obj\Debug\Tarea22.exe
+C:\Users\lopezyo1\source\myRepos\C#-course\Seccion2\Tarea22\Tarea22\obj\Debug\Tarea22.pdb
