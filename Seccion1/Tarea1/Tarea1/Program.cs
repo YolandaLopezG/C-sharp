@@ -10,6 +10,7 @@ namespace Tarea1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Prueba de escritura");
         }
     }
 }
